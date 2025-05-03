@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Quantum Pioneers Timeline
 
 量子力学の開拓者たちの生涯と主要な業績を視覚的に確認できるインタラクティブなタイムラインビューアです。
@@ -16,25 +17,23 @@
 動作にはReact環境が必要です。
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+=======
+# Quantum Pioneers Timeline
+>>>>>>> 2fae70c (Next.js + Tailwind + shadcn/ui first commit)
 
-## Getting Started
+量子力学の開拓者たちの生涯と主要な業績を視覚的に確認できるインタラクティブなタイムラインビューアです。
 
-First, run the development server:
+![スクリーンショット](./images/screenshot.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 生年から没年までをタイムラインで表示
+- 年代のスライダーで各物理学者の年齢を確認可能
+- 主要な業績をマーカーで表示（ノーベル賞は金色で表示）
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Prerequisite
 
+<<<<<<< HEAD
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
@@ -52,3 +51,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 >>>>>>> a848a3f (Initial commit from Create Next App)
+=======
+動作にはReact環境が必要です。
+>>>>>>> 2fae70c (Next.js + Tailwind + shadcn/ui first commit)
