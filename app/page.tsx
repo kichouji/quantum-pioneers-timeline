@@ -1,4 +1,3 @@
-import Image from "next/image";
 import TimelineViewer from "./components/TimelineViewer";
 
 export default function Home() {
